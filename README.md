@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/HackerRank-SubashRodrigo-71CA67?style=for-the-badge&logo=HackerRank&logoColor=71CA67)](https://www.hackerrank.com/subash_rodrigo)
 [![](https://img.shields.io/badge/Skype-randika.rodrigo87-00AFF0?style=for-the-badge&logo=Skype&logoColor=00AFF0)]()
 
-[profile_banner]: ./profile_banner.png
+[profile_banner]: https://raw.githubusercontent.com/SubashRandika/SubashRandika/master/profile_banner.png
 [company]: https://creativesoftware.com/
 [tailwind]: https://tailwindcss.com
 [aws]: https://aws.amazon.com/
