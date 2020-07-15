@@ -1,6 +1,6 @@
 ![bg][profile_banner]
 
-### I am working at [Creative Software][company] as a **Senior Full Stack Developer**. I have solid background over **7 years** experience in Full Stack Development
+### I am working at [Creative Software][company] as a `Senior Full Stack Developer`. I have proven `7+ years` solid background of experience in Full Stack Development
 
 -   👨🏼‍💻 I’m building full stack web applications and web sites.
 -   🌱 I’m currently learning [Tailwind][tailwind], [AWS][aws], [JAMStack][jamstack] etc.
