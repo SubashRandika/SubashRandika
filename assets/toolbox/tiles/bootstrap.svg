@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 104" width="92" height="104" role="img" aria-label="Bootstrap">
+  <defs>
+    <style>
+      .tile{transform-box:fill-box;animation:pop .55s cubic-bezier(.3,1.4,.5,1) 0.28s both}
+      @keyframes pop{from{opacity:0;transform:translateY(14px) scale(.9)}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none}}
+    </style>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#efe2cf"/></linearGradient>
+    <filter id="d" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#0b1026" flood-opacity=".32"/></filter>
+  </defs>
+  <g transform="translate(8 10)"><g class="tile">
+    <g filter="url(#d)"><rect width="76" height="76" rx="22" fill="url(#g)"/></g>
+    <rect x="8" y="4" width="60" height="14" rx="7" fill="#fff" opacity=".7"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjcuMjM1IDEzLjg4NWMtNy4xNzcgMC0xMi40ODYgNi4yODQtMTIuMjQ5IDEzLjA5OS4yMjggNi41NDYtLjA2OCAxNS4wMjYtMi4yMDMgMjEuOTQtMi4xNCA2LjkzNi01Ljc2IDExLjMxOS0xMS42NzMgMTEuODgzdjYuMzg3YzUuOTEzLjU2MyA5LjUzMyA0Ljk0NyAxMS42NzMgMTEuODgzIDIuMTM1IDYuOTE0IDIuNDMgMTUuMzk0IDIuMjAzIDIxLjk0LS4yMzggNi44MTUgNS4wNzIgMTMuMDk4IDEyLjI0OSAxMy4wOThoNzMuNTRjNy4xNzcgMCAxMi40ODYtNi4yODQgMTIuMjQ5LTEzLjA5OC0uMjI4LTYuNTQ2LjA2OC0xNS4wMjYgMi4yMDItMjEuOTQgMi4xNC02LjkzNSA1Ljc1MS0xMS4zMTkgMTEuNjY0LTExLjg4M3YtNi4zODdjLTUuOTEzLS41NjMtOS41MjMtNC45NDctMTEuNjY0LTExLjg4My0yLjEzNC02LjkxNC0yLjQzLTE1LjM5NC0yLjIwMi0yMS45NC4yMzctNi44MTUtNS4wNzItMTMuMDk5LTEyLjI1LTEzLjA5OXptNTguMTE0IDYxLjY4NmMwIDkuMzg0LTcuMDAyIDE1LjA3My0xOC42MjEgMTUuMDczSDQ1LjMwNmEuNDkxLjQ5MSAwIDAxLS40OTEtLjQ5MVYzNy44MjdhLjQ5MS40OTEgMCAwMS40OTEtLjQ5MmgyMS4zMDljOS42ODkgMCAxNi4wNDcgNS4yNDYgMTYuMDQ3IDEzLjMgMCA1LjY1My00LjI3NyAxMC43MTMtOS43MjcgMTEuNnYuMjk2YzcuNDE4LjgxMyAxMi40MTQgNS45NDggMTIuNDE0IDEzLjA0ek02NC41NzEgNDQuMDk2SDUzLjI5M3YxNS45MjJoOS41YzcuMzQyIDAgMTEuMzkxLTIuOTU1IDExLjM5MS04LjIzOCAwLTQuOTUtMy40ODEtNy42ODQtOS42MTMtNy42ODR6bS0xMS4yNzggMjIuMjR2MTcuNTQ4aDExLjY5NWM3LjY0NSAwIDExLjY5NS0zLjA2NiAxMS42OTUtOC44MyAwLTUuNzYzLTQuMTYzLTguNzE4LTEyLjE4Ny04LjcxOHoiIGZpbGw9IiM3OTUyYjMiLz48L3N2Zz4NCg==" x="18" y="18" width="40" height="40"/>
+  </g></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 104" width="92" height="104" role="img" aria-label="Firebase">
+  <defs>
+    <style>
+      .tile{transform-box:fill-box;animation:pop .55s cubic-bezier(.3,1.4,.5,1) 0.42s both}
+      @keyframes pop{from{opacity:0;transform:translateY(14px) scale(.9)}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none}}
+    </style>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#efe2cf"/></linearGradient>
+    <filter id="d" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#0b1026" flood-opacity=".32"/></filter>
+  </defs>
+  <g transform="translate(8 10)"><g class="tile">
+    <g filter="url(#d)"><rect width="76" height="76" rx="22" fill="url(#g)"/></g>
+    <rect x="8" y="4" width="60" height="14" rx="7" fill="#fff" opacity=".7"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZjU4MjIwIiBkPSJNMjcuMzUgODAuNTJsMTAuNjgtNjguNDRjLjM3LTIuMzMgMy41LTIuODkgNC42LS44bDExLjQ4IDIxLjQ4LTI2Ljc2IDQ3Ljc2em03NS45NCAxNi42M0w5My4xIDM0LjExYy0uMzEtMS45Ni0yLjc2LTIuNzYtNC4xNy0xLjM1TDI0LjcxIDk3LjE1bDM1LjU0IDE5Ljk1YTcuNDQ3IDcuNDQ3IDAgMDA3LjE4IDBsMzUuODYtMTkuOTV6bS0yOC44NS01NUw2Ni4yMSAyNi41Yy0uOTItMS43OC0zLjQ0LTEuNzgtNC4zNiAwTDI1LjcgOTAuOTVsNDguNzQtNDguOHoiLz48L3N2Zz4=" x="18" y="18" width="40" height="40"/>
+  </g></g>
+</svg>

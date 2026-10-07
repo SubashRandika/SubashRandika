@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 104" width="92" height="104" role="img" aria-label="Express">
+  <defs>
+    <style>
+      .tile{transform-box:fill-box;animation:pop .55s cubic-bezier(.3,1.4,.5,1) 0.07s both}
+      @keyframes pop{from{opacity:0;transform:translateY(14px) scale(.9)}}
+      @media (prefers-reduced-motion:reduce){.tile{animation:none}}
+    </style>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffaf2"/><stop offset="1" stop-color="#efe2cf"/></linearGradient>
+    <filter id="d" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#0b1026" flood-opacity=".32"/></filter>
+  </defs>
+  <g transform="translate(8 10)"><g class="tile">
+    <g filter="url(#d)"><rect width="76" height="76" rx="22" fill="url(#g)"/></g>
+    <rect x="8" y="4" width="60" height="14" rx="7" fill="#fff" opacity=".7"/>
+    <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTI2LjY3IDk4LjQ0Yy00LjU2IDEuMTYtNy4zOC4wNS05LjkxLTMuNzUtNS42OC04LjUxLTExLjk1LTE2LjYzLTE4LTI0LjktLjc4LTEuMDctMS41OS0yLjEyLTIuNi0zLjQ1Qzg5IDc2IDgxLjg1IDg1LjIgNzUuMTQgOTQuNzdjLTIuNCAzLjQyLTQuOTIgNC45MS05LjQgMy43bDI2LjkyLTM2LjEzTDY3LjYgMjkuNzFjNC4zMS0uODQgNy4yOS0uNDEgOS45MyAzLjQ1IDUuODMgOC41MiAxMi4yNiAxNi42MyAxOC42NyAyNS4yMSA2LjQ1LTguNTUgMTIuOC0xNi42NyAxOC44LTI1LjExIDIuNDEtMy40MiA1LTQuNzIgOS4zMy0zLjQ2LTMuMjggNC4zNS02LjQ5IDguNjMtOS43MiAxMi44OC00LjM2IDUuNzMtOC42NCAxMS41My0xMy4xNiAxNy4xNC0xLjYxIDItMS4zNSAzLjMuMDkgNS4xOUMxMDkuOSA3NiAxMTguMTYgODcuMSAxMjYuNjcgOTguNDR6TTEuMzMgNjEuNzRjLjcyLTMuNjEgMS4yLTcuMjkgMi4yLTEwLjgzIDYtMjEuNDMgMzAuNi0zMC4zNCA0Ny41LTE3LjA2QzYwLjkzIDQxLjY0IDYzLjM5IDUyLjYyIDYyLjkgNjVINy4xYy0uODQgMjIuMjEgMTUuMTUgMzUuNjIgMzUuNTMgMjguNzggNy4xNS0yLjQgMTEuMzYtOCAxMy40Ny0xNSAxLjA3LTMuNTEgMi44NC00LjA2IDYuMTQtMy4wNi0xLjY5IDguNzYtNS41MiAxNi4wOC0xMy41MiAyMC42Ni0xMiA2Ljg2LTI5LjEzIDQuNjQtMzguMTQtNC44OUM1LjI2IDg1Ljg5IDMgNzguOTIgMiA3MS4zOWMtLjE1LTEuMi0uNDYtMi4zOC0uNy0zLjU3cS4wMy0zLjA0LjAzLTYuMDh6bTUuODctMS40OWg1MC40M2MtLjMzLTE2LjA2LTEwLjMzLTI3LjQ3LTI0LTI3LjU3LTE1LS4xMi0yNS43OCAxMS4wMi0yNi40MyAyNy41N3oiLz48L3N2Zz4=" x="18" y="18" width="40" height="40"/>
+  </g></g>
+</svg>
