@@ -22,23 +22,23 @@ I'm a Senior Front-End Developer with **13+ years** of turning complex products 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/languages-dark.svg">
-  <img src="assets/toolbox/languages-light.svg" alt="Languages: JavaScript, TypeScript, HTML5, CSS3, Java" width="620">
+  <img src="assets/toolbox/languages-light.svg" alt="Languages: JavaScript, TypeScript, C#, HTML5, CSS3, Java" width="680">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/frontend-dark.svg">
-  <img src="assets/toolbox/frontend-light.svg" alt="Frontend: React, Next.js, Angular, Redux, Three.js, GSAP" width="620">
+  <img src="assets/toolbox/frontend-light.svg" alt="Frontend: React, Next.js, TanStack, Angular, Blazor, Redux, Three.js, GSAP" width="680">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/styling-dark.svg">
-  <img src="assets/toolbox/styling-light.svg" alt="Styling and design: Tailwind CSS, Sass, Material UI, Chakra UI, Bootstrap, Figma" width="620">
+  <img src="assets/toolbox/styling-light.svg" alt="Styling and design: Tailwind CSS, Sass, Material UI, Chakra UI, Bootstrap, Figma" width="680">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/backend-dark.svg">
-  <img src="assets/toolbox/backend-light.svg" alt="Backend and data: Node.js, Express, GraphQL, PostgreSQL, MongoDB, MySQL, Firebase" width="620">
+  <img src="assets/toolbox/backend-light.svg" alt="Backend and data: Node.js, Express, GraphQL, PostgreSQL, MongoDB, MySQL, Firebase" width="680">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox/tooling-dark.svg">
-  <img src="assets/toolbox/tooling-light.svg" alt="Cloud and tooling: AWS, Docker, Vite, Webpack, VS Code" width="620">
+  <img src="assets/toolbox/tooling-light.svg" alt="Cloud and tooling: AWS, Docker, Vite, Webpack, VS Code, Visual Studio" width="680">
 </picture>
 
 <br><br>
