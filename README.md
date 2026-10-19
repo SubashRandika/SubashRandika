@@ -36,10 +36,6 @@ I'm a Senior Front-End Developer with **13+ years** of turning complex products 
 </picture>
 
 <p>
-  <a href="https://aqua-zen-mu.vercel.app"><img src="assets/cards/aqua-zen.webp" alt="AquaZen — a calm, cinematic 3D aquarium with eighteen fish species and a slow day and night. Next.js, React Three Fiber, GSAP, Framer Motion." width="49%"></a>
-  <a href="https://paleo-sphere.vercel.app"><img src="assets/cards/paleo-sphere.webp" alt="Paleo Sphere — an interactive 3D dinosaur encyclopedia that separates fossil evidence from artistic interpretation. Next.js, React Three Fiber, Zustand, Zod." width="49%"></a>
-</p>
-<p>
   <a href="https://sinha-giri.vercel.app"><img src="assets/cards/sinha-giri.webp" alt="Sinha Giri — a scroll-driven documentary of Sigiriya. Next.js, React Three Fiber, GSAP." width="49%"></a>
   <a href="https://lumora-tau-mauve.vercel.app"><img src="assets/cards/lumora.webp" alt="Lumora — a fan-made 3D spell-casting experience. Next.js, Three.js, Postprocessing, Zustand." width="49%"></a>
 </p>
@@ -50,6 +46,10 @@ I'm a Senior Front-End Developer with **13+ years** of turning complex products 
 <p>
   <a href="https://aero-shield-kappa.vercel.app"><img src="assets/cards/aero-shield.webp" alt="AeroShield — a cinematic 3D walkthrough of how missile-defense systems work. Next.js, React Three Fiber, GSAP, Radix UI." width="49%"></a>
   <a href="https://github.com/SubashRandika/crown-clothing"><img src="assets/cards/crown-clothing.webp" alt="Crown Clothing — a clothing storefront with cart and Stripe checkout. React, Redux, Firebase, Stripe, styled-components." width="49%"></a>
+</p>
+<p>
+  <a href="https://aqua-zen-mu.vercel.app"><img src="assets/cards/aqua-zen.webp" alt="AquaZen — a calm, cinematic 3D aquarium with eighteen fish species and a slow day and night. Next.js, React Three Fiber, GSAP, Framer Motion." width="49%"></a>
+  <a href="https://paleo-sphere.vercel.app"><img src="assets/cards/paleo-sphere.webp" alt="Paleo Sphere — an interactive 3D dinosaur encyclopedia that separates fossil evidence from artistic interpretation. Next.js, React Three Fiber, Zustand, Zod." width="49%"></a>
 </p>
 
 <br>
